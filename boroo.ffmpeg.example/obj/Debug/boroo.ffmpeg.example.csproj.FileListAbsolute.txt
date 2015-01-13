@@ -1,0 +1,5 @@
+C:\Users\boroo\Documents\Visual Studio 2012\Projects\boroo.ffmpeg.example\boroo.ffmpeg.example\bin\Debug\boroo.ffmpeg.example.exe
+C:\Users\boroo\Documents\Visual Studio 2012\Projects\boroo.ffmpeg.example\boroo.ffmpeg.example\bin\Debug\boroo.ffmpeg.example.pdb
+C:\Users\boroo\Documents\Visual Studio 2012\Projects\boroo.ffmpeg.example\boroo.ffmpeg.example\obj\Debug\boroo.ffmpeg.example.csprojResolveAssemblyReference.cache
+C:\Users\boroo\Documents\Visual Studio 2012\Projects\boroo.ffmpeg.example\boroo.ffmpeg.example\obj\Debug\boroo.ffmpeg.example.exe
+C:\Users\boroo\Documents\Visual Studio 2012\Projects\boroo.ffmpeg.example\boroo.ffmpeg.example\obj\Debug\boroo.ffmpeg.example.pdb

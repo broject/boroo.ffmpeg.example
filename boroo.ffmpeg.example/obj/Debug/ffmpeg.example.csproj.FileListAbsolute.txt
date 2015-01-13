@@ -1,0 +1,4 @@
+c:\users\boroo\documents\visual studio 2012\Projects\ffmpeg.example\ffmpeg.example\bin\Debug\ffmpeg.example.exe
+c:\users\boroo\documents\visual studio 2012\Projects\ffmpeg.example\ffmpeg.example\bin\Debug\ffmpeg.example.pdb
+c:\users\boroo\documents\visual studio 2012\Projects\ffmpeg.example\ffmpeg.example\obj\Debug\ffmpeg.example.exe
+c:\users\boroo\documents\visual studio 2012\Projects\ffmpeg.example\ffmpeg.example\obj\Debug\ffmpeg.example.pdb
